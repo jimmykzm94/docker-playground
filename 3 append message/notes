@@ -1,0 +1,9 @@
+To build:
+docker build -t test_append_msg .
+
+To create volume:
+1. Create from Docker Desktop, name it 'test_volume'
+2. Create from command, 'docker volume create test_volume'
+
+To run:
+docker run --rm -v test_volume:/app test_append_msg

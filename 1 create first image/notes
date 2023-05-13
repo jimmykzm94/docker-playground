@@ -1,0 +1,5 @@
+To build:
+docker build -t hello_python .
+
+To run:
+docker run --rm hello_python 
