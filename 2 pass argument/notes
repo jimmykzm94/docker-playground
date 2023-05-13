@@ -1,0 +1,5 @@
+To build:
+docker build -t hello_argument .
+
+To run:
+docker run --rm hello_argument "Hello world"
