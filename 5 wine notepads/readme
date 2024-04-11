@@ -1,0 +1,12 @@
+How to run notepad using docker (tested with Mac only)
+
+Requirements:
+1. Install XQuartz
+    brew install --cask xquartz
+
+How to use makefile:
+1. make create_volume => create volume, do it once
+2. make build => build the docker image, this will take a while
+3. make before_run => open XQuartz app and set xhost to display notepad screen, update to use other than en0
+4. make run => run notepad
+5. make remove => remove the docker image
