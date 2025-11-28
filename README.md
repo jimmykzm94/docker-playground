@@ -15,4 +15,4 @@ Here are the projects currently in this playground:
 *More examples will be added over time.*
 
 ## Keywords
-![Docker](https://img.shields.io/badge/Container-Docker-1D63ED)
+![Docker](https://img.shields.io/badge/Container-Docker-1F90ED)
