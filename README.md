@@ -11,6 +11,7 @@ Here are the projects currently in this playground:
 - **[3 append message](./3%20append%20message/)**: An example of appending a message to a file inside a container, using a volume to persist the data.
 - **[5 wine notepads](./5%20wine%20notepads/)**: A more complex example of running a Windows application (Notepad) in container using Wine and XQuartz for the GUI.
 - **[6 tflite build](./6%20tflite%20build/)**: A Docker-based environment for building the TensorFlow Lite Micro library for embedded targets like the STM32 NUCLEO-F446RE.
+- **[7 rabbitmq](./7%20rabbitmq/)**: How to run a "Hello World" example for RabbitMQ using .NET, with the broker running as a Docker container.
 
 *More examples will be added over time.*
 
